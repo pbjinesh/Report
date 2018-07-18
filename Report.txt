@@ -1,0 +1,93 @@
+10-July-18 (Report)
+
+-Adding the Build Control Componen
+-Outputting Multiple Build Controls
+-Connecting State to Build Controls
+-Removing Ingredients Safely
+-Displaying and Updating the Burger Price
+-Adding the Order Button
+-Creating the Order Summary Modal
+-Showing & Hiding the Modal (with Animation!)
+-Implementing the Backdrop Component
+-Adding a Custom Button Component
+-Implementing the Button Component
+-Adding the Price to the Order Summary
+-Adding a Toolbar
+-Using a Logo in our Application
+
+11-July-18 (Report)
+
+-Adding Reusable Navigation Items
+-Creating a Responsive Sidedrawer
+-Working on Responsive Adjustments
+-More about Responsive Adjustments
+-Reusing the Backdrop
+-Adding a Sidedrawer Toggle Button
+-Adding a Hamburger Icon
+-Improving the App
+-Prop Type Validation
+-Improving Performance
+-Using Component Lifecycle Methods
+-Understanding Http Requests in React
+-Understanding Axios
+-Creating a Http Request to GET Data
+-Rendering Fetched Data to the Screen
+-Transforming Data
+
+12-July-18 (Report)
+-Making a Post Selectable
+-Fetching Data on Update (without Creating Infinite Loops)
+-POSTing Data to the Server
+-Sending a DELETE Request
+-Fixing Bug
+-Handling Errors Locally
+-Adding Interceptors to Execute Code Globally
+-Setting a Default Global Configuration for Axios
+-Creating and Using Axios Instances
+
+13-July-18 (Report)
+
+-Creating the Firebase Project
+-Creating the Axios Instance
+-Sending a POST Request
+-Displaying a Spinner while Sending a Request
+-Handling Errors
+-Retrieving Data from the Backend
+-Retrieving Data from the Backend
+-Routing
+-Routing and SPAs
+
+16-July-18 (Report)
+
+-Setting Up Links
+-Setting Up the Router Package
+-react-router and react-router-dom
+-Preparing the Project For Routing
+-Setting Up and Rendering Routes
+-Rendering Components for Routes
+-Switching Between Pages
+-Using Links to Switch Pages
+-Using Routing-Related Props
+-The "withRouter" HOC & Route Props
+-Absolute and Relative Paths
+-Styling the Active Route
+-Passing Route Parameters
+-Extracting Route Parameters
+-Parsing Query Parameters & the Fragment
+-Using Switch to Load a Single Route
+
+
+17-July-18 (Report)
+
+-Navigating Programmatically
+-Additional Information Regarding Active Links
+-Understanding Nested Routes
+-Creating Dynamic Nested Routes 
+-Redirecting Requests
+-Conditional Redirects
+-Using the History Prop to Redirect (Replace)
+-Working with Guards
+-Handling the 404 Case (Unknown Routes)
+-Loading Routes Lazily
+-Routing and Server Deployment
+
